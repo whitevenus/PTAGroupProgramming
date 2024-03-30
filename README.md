@@ -11,8 +11,9 @@ Although calling PAT the ‘TOEFL of the IT industry’ may be a bit exaggerated
 
 ## Group Programming Ladder Tournament - Practice Set
 
-| Label | Code |
-|:---:  |:---:|
-| L1-001 | [Python3](Solution/L1-001.py) |
-| L1-002 | [Python3](Solution/L1-002.py) |
+|                                                   Label                                                    | Code |
+|:----------------------------------------------------------------------------------------------------------:|:---:|
+| [L1-001](https://pintia.cn/problem-sets/994805046380707840/exam/problems/994805147132084224?type=7&page=0) | [Python3](Solution/L1-001.py) |
+|                                                 [L1-002](https://pintia.cn/problem-sets/994805046380707840/exam/problems/994805145370476544?type=7&page=0)                                                 | [Python3](Solution/L1-002.py) |
+
 
